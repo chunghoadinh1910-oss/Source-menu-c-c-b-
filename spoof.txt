@@ -1,0 +1,5 @@
+# Fingerprint giả cho android.os.Build — dòng đầu tiên được dùng.
+# Format: brand/product/device:release/id/incremental:type/tags
+# File rỗng (hoặc chỉ comment) = KHÔNG spoof.
+# Ví dụ giả làm máy Pixel 7 stock:
+# google/cheetah/cheetah:13/TQ3A.230805.001/10316531:user/release-keys
